@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+
+}
+
+h1{
+    color: grey;
+    text-align: center;
+    font-size: 80px;
+
+}
+h2{
+    color: gray;
+    margin-top: 1px;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
